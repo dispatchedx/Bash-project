@@ -1,0 +1,2 @@
+# Bash-project
+University assignment
