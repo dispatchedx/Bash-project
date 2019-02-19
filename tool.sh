@@ -2,7 +2,7 @@
  
 #an den exei parametrous, ektupwse to am
 if [ $# -eq 0 ]; then
-    echo '1058123-1051328'
+    echo '1058123-'
     exit
 fi
  
